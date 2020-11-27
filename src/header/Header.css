@@ -1,0 +1,15 @@
+.Header{
+    background:#A31ACB;
+    position:absolute;
+    top:0;
+    width:100%;
+    padding-top:50px;
+    height:50px;
+    border-radius: 0 0 30px 30px;
+    align-items: flex-end;
+    margin: auto;
+}
+
+.Header.Title {
+    margin: auto;
+}
